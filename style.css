@@ -1,0 +1,13 @@
+  * { margin: 0; padding: 0; }
+html, body {
+  height: 70%;
+}
+
+#clock {
+  text-align: center;
+  position:relative;
+  top:50%;
+  font-family: 'Astloch', cursive;
+  font-size: 68px;
+  margin-top: -10px;
+}
